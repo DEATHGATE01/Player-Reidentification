@@ -1,0 +1,31 @@
+# Core Computer Vision and ML Libraries
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Image Processing and Analysis
+Pillow>=9.5.0
+scikit-image>=0.21.0
+scikit-learn>=1.3.0
+
+# Data Handling and Visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Feature Extraction and Matching
+scipy>=1.11.0
+imutils>=0.5.4
+
+# Progress Tracking
+tqdm>=4.65.0
+
+# Optional: For advanced tracking algorithms
+filterpy>=1.4.5
+lap>=0.4.0
+
+# Optional: For video processing optimization
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
